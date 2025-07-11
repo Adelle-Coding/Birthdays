@@ -47,7 +47,7 @@ struct ContentView: View {
              }
                
                 .padding()
-                  .backround(.bar)
+                  .background(.bar)
                 
                 
             }
